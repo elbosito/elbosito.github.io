@@ -1,4 +1,4 @@
 # elbosito.github.io
 
-Wecome to Sunday morning session mit CCF
+Welcome to Sunday morning session mit CCF
 
